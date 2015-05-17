@@ -2,188 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a25d826-c8e9-474b-9850-e3355b22d430" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Bold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Bold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-BoldItalic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-BoldItalic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-BoldItalic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Italic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Italic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Italic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Light-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Light-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Light-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-LightItalic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-LightItalic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-LightItalic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Semibold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Semibold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Semibold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/abstract-vector.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/authentic-vintage.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/big/b-abstract-vector.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/big/b-authentic-vintage.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/big/b-embossed-paper.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/big/b-hipster.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/big/b-judah.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/big/b-line-icons.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/big/b-spot-uv-logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/big/b-tshirt-mockup.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/btnNext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/btnPrevious.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/contentPattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/contentPattern.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternBottom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternLeft.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternRight.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/contentPatternTop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/default_thumb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/default_thumbnail.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/embossed-paper.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/img/escheresque.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/img/escheresque_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/feature-image-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/feature-image-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/feature-image-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fontello/font/fontello.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fontello/font/fontello.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fontello/font/fontello.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/footer-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/img/grey.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/img/grey_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/img/hero-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/img/hero-bg_@2X.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/hero-image.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/hipster.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/judah.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/line-icons.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/montserrat/montserrat-bold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/montserrat/montserrat-bold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/montserrat/montserrat-bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/montserrat/montserrat-regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/montserrat/montserrat-regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/montserrat/montserrat-regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/img/overlay-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/preloader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sample-image.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/spot-uv-logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_rounded/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/dark_square/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/facebook/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_rounded/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/light_square/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/sprite_next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/sprite_prev.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/sprite_x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/prettyPhoto/default/sprite_y.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/screenshots/tshirt-mockup.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Bold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-BoldItalic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-ExtraBoldItalic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Italic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Light-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-LightItalic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-Semibold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/opensans/OpenSans-SemiboldItalic-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/scss/_spinning.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fontello/css/animation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fontello/css/fontello-codes.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fontello/css/fontello-embedded.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fontello/css/fontello-ie7-codes.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fontello/css/fontello-ie7.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fontello/css/fontello.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fontello/font/fontello.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/imagelightbox.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-migrate-1.2.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.fittext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.fitvids.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.flexslider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.prettyPhoto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/media-queries.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modernizr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/montserrat/montserrat-bold-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/montserrat/montserrat-bold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/montserrat/montserrat-regular-demo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/fonts/montserrat/montserrat-regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/prettyPhoto.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/less/spinning.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/waypoints.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="ahujaravish.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -207,10 +26,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="19.596775">
-              <caret line="648" column="7" selection-start-line="648" selection-start-column="7" selection-end-line="648" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.3669355">
+              <caret line="298" column="27" selection-start-line="298" selection-start-column="27" selection-end-line="298" selection-end-column="27" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -341,7 +162,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="997" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17661242" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -349,7 +170,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39581037" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39581037" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -377,17 +198,21 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="19.596775">
-          <caret line="648" column="7" selection-start-line="648" selection-start-column="7" selection-end-line="648" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.3669355">
+          <caret line="298" column="27" selection-start-line="298" selection-start-column="27" selection-end-line="298" selection-end-column="27" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#form#0;n#div#0;n#div#0;n#div#1;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
