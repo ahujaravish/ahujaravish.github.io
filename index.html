@@ -1,462 +1,649 @@
 <!DOCTYPE html>
-<html lang="en"> 
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="no-js ie ie9" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!--><html class="no-js" lang="en"> <!--<![endif]-->
+<head>
 
-    <title>SOLID - Bootstrap 3 Theme</title>
+	<!--- Basic Page Needs
+       ================================================== -->
+	<meta charset="utf-8">
+	<title>Letsconnect</title>
+	<meta name="description" content="">
+	<meta name="author" content="">
 
-    <!-- Bootstrap core CSS -->
-    <link href="assets/css/bootstrap.css" rel="stylesheet">
+	<!-- Mobile Specific Metas
+       ================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-    <!-- Custom styles for this template -->
-    <link href="assets/css/style.css" rel="stylesheet">
-    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
-
-
-    <!-- Just for debugging purposes. Don't actually copy this line! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-    
-    <script src="assets/js/modernizr.js"></script>
-  </head>
-
-  <body>
-
-    <!-- Fixed navbar -->
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="index.html">SOLID.</a>
-        </div>
-        <div class="navbar-collapse collapse navbar-right">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="index.html">HOME</a></li>
-            <li><a href="about.html">ABOUT</a></li>
-            <li><a href="contact.html">CONTACT</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">PAGES <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="blog.html">BLOG</a></li>
-                <li><a href="single-post.html">SINGLE POST</a></li>
-                <li><a href="portfolio.html">PORTFOLIO</a></li>
-                <li><a href="single-project.html">SINGLE PROJECT</a></li>
-              </ul>
-            </li>
-          </ul>
-        </div><!--/.nav-collapse -->
-      </div>
-    </div>
-
-	<!-- *****************************************************************************************************************
-	 HEADERWRAP
-	 ***************************************************************************************************************** -->
-	<div id="headerwrap">
-	    <div class="container">
-			<div class="row">
-				<div class="col-lg-8 col-lg-offset-2">
-					<h3>Real-time. Anonymous. Private. Direct</h3>
-					<h1>Employee feedback reinvented</h1>
-					<h5>Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth - Oscar Wilde</h5>
-					<h5>More Lorem Ipsum added here too.</h5>				
-				</div>
-				<div class="col-lg-8 col-lg-offset-2 himg">
-					<img src="assets/img/browser.png" class="img-responsive">
-				</div>
-			</div><!-- /row -->
-	    </div> <!-- /container -->
-	</div><!-- /headerwrap -->
-
-	<!-- *****************************************************************************************************************
-	 SERVICE LOGOS
-	 ***************************************************************************************************************** -->
-	 <div id="service">
-	 	<div class="container">
- 			<div class="row centered">
- 				<div class="col-md-4">
- 					<i class="fa fa-heart-o"></i>
- 					<h4>Handsomely Crafted</h4>
- 					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
- 					<p><br/><a href="#" class="btn btn-theme">More Info</a></p>
- 				</div>
- 				<div class="col-md-4">
- 					<i class="fa fa-flask"></i>
- 					<h4>Retina Ready</h4>
- 					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
- 					<p><br/><a href="#" class="btn btn-theme">More Info</a></p>
- 				</div>
- 				<div class="col-md-4">
- 					<i class="fa fa-trophy"></i>
- 					<h4>Quality Theme</h4>
- 					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
- 					<p><br/><a href="#" class="btn btn-theme">More Info</a></p>
- 				</div>		 				
-	 		</div>
-	 	</div><! --/container -->
-	 </div><! --/service -->
-	 
-	<!-- *****************************************************************************************************************
-	 PORTFOLIO SECTION
-	 ***************************************************************************************************************** -->
-	 <div id="portfoliowrap">
-        <h3>LATEST WORKS</h3>
-
-        <div class="portfolio-centered">
-            <div class="recentitems portfolio">
-				<div class="portfolio-item graphic-design">
-					<div class="he-wrap tpl6">
-					<img src="assets/img/portfolio/portfolio_09.jpg" alt="">
-						<div class="he-view">
-							<div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">A Graphic Design Item</h3>
-                                <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_09.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                        	</div><!-- he bg -->
-						</div><!-- he view -->		
-					</div><!-- he wrap -->
-				</div><!-- end col-12 -->
-                            
-                <div class="portfolio-item web-design">
-                    <div class="he-wrap tpl6">
-					<img src="assets/img/portfolio/portfolio_02.jpg" alt="">
-						<div class="he-view">
-							<div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">A Web Design Item</h3>
-                                <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_02.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                        	</div><!-- he bg -->
-						</div><!-- he view -->		
-					</div><!-- he wrap -->
-				</div><!-- end col-12 -->
-        
-                <div class="portfolio-item graphic-design">
-                    <div class="he-wrap tpl6">
-					<img src="assets/img/portfolio/portfolio_03.jpg" alt="">
-						<div class="he-view">
-							<div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">A Graphic Design Item</h3>
-                                <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_03.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                        	</div><!-- he bg -->
-						</div><!-- he view -->		
-					</div><!-- he wrap -->
-				</div><!-- end col-12 -->
-        
-                <div class="portfolio-item graphic-design">
-                    <div class="he-wrap tpl6">
-					<img src="assets/img/portfolio/portfolio_04.jpg" alt="">
-						<div class="he-view">
-							<div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">A Graphic Design Item</h3>
-                                <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_04.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                        	</div><!-- he bg -->
-						</div><!-- he view -->		
-					</div><!-- he wrap -->
-				</div><!-- end col-12 -->
-                                        
-                <div class="portfolio-item books">
-                    <div class="he-wrap tpl6">
-					<img src="assets/img/portfolio/portfolio_05.jpg" alt="">
-						<div class="he-view">
-							<div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">A Book Design Item</h3>
-                                <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_05.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                        	</div><!-- he bg -->
-						</div><!-- he view -->		
-					</div><!-- he wrap -->
-				</div><!-- end col-12 -->
-                                        
-                <div class="portfolio-item graphic-design">
-                    <div class="he-wrap tpl6">
-					<img src="assets/img/portfolio/portfolio_06.jpg" alt="">
-						<div class="he-view">
-							<div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">A Graphic Design Item</h3>
-                                <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_06.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                        	</div><!-- he bg -->
-						</div><!-- he view -->		
-					</div><!-- he wrap -->
-				</div><!-- end col-12 -->
-                    
-                <div class="portfolio-item books">
-                    <div class="he-wrap tpl6">
-					<img src="assets/img/portfolio/portfolio_07.jpg" alt="">
-						<div class="he-view">
-							<div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">A Book Design Item</h3>
-                                <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_07.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                        	</div><!-- he bg -->
-						</div><!-- he view -->		
-					</div><!-- he wrap -->
-				</div><!-- end col-12 -->
-                    
-                <div class="portfolio-item graphic-design">
-                    <div class="he-wrap tpl6">
-					<img src="assets/img/portfolio/portfolio_08.jpg" alt="">
-						<div class="he-view">
-							<div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">A Graphic Design Item</h3>
-                                <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_08.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                        	</div><!-- he bg -->
-						</div><!-- he view -->		
-					</div><!-- he wrap -->
-				</div><!-- end col-12 -->
-                                        
-                <div class="portfolio-item web-design">
-                    <div class="he-wrap tpl6">
-					<img src="assets/img/portfolio/portfolio_01.jpg" alt="">
-						<div class="he-view">
-							<div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">A Web Design Item</h3>
-                                <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_01.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                        	</div><!-- he bg -->
-						</div><!-- he view -->		
-					</div><!-- he wrap -->
-				</div><!-- end col-12 -->
-    
-			<div class="portfolio-item books">
-                <div class="he-wrap tpl6">
-					<img src="assets/img/portfolio/portfolio_10.jpg" alt="">
-						<div class="he-view">
-							<div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">A Book Design Item</h3>
-                                <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_10.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                        	</div><!-- he bg -->
-						</div><!-- he view -->		
-					</div><!-- he wrap -->
-				</div><!-- end col-12 -->
-                    
-            </div><!-- portfolio -->
-        </div><!-- portfolio container -->
-	 </div><!--/Portfoliowrap -->
-	 
-	 
-	<!-- *****************************************************************************************************************
-	 MIDDLE CONTENT
-	 ***************************************************************************************************************** -->
-
-	 <div class="container mtb">
-	 	<div class="row">
-	 		<div class="col-lg-4 col-lg-offset-1">
-		 		<h4>More About Our Agency.</h4>
-		 		<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. </p>
- 				<p><br/><a href="about.html" class="btn btn-theme">More Info</a></p>
-	 		</div>
-	 		
-	 		<div class="col-lg-3">
-	 			<h4>Frequently Asked</h4>
-	 			<div class="hline"></div>
-	 			<p><a href="#">How cool is this theme?</a></p>
-	 			<p><a href="#">Need a nice good-looking site?</a></p>
-	 			<p><a href="#">Is this theme retina ready?</a></p>
-	 			<p><a href="#">Which version of Font Awesome uses?</a></p>
-	 			<p><a href="#">Free support is integrated?</a></p>
-	 		</div>
-	 		
-	 		<div class="col-lg-3">
-	 			<h4>Latest Posts</h4>
-	 			<div class="hline"></div>
-	 			<p><a href="single-post.html">Our new site is live now.</a></p>
-	 			<p><a href="single-post.html">Retina ready is not an option.</a></p>
-	 			<p><a href="single-post.html">Bootstrap 3 framework is the best.</a></p>
-	 			<p><a href="single-post.html">You need this theme, buy it now.</a></p>
-	 			<p><a href="single-post.html">This theme is what you need.</a></p>
-	 		</div>
-	 		
-	 	</div><! --/row -->
-	 </div><! --/container -->
-	 
-	<!-- *****************************************************************************************************************
-	 TESTIMONIALS
-	 ***************************************************************************************************************** -->
-	 <div id="twrap">
-	 	<div class="container centered">
-	 		<div class="row">
-	 			<div class="col-lg-8 col-lg-offset-2">
-	 			<i class="fa fa-comment-o"></i>
-	 			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-	 			<h4><br/>Marcel Newman</h4>
-	 			<p>WEB DESIGNER - BLACKTIE.CO</p>
-	 			</div>
-	 		</div><! --/row -->
-	 	</div><! --/container -->
-	 </div><! --/twrap -->
-	 
-	<!-- *****************************************************************************************************************
-	 OUR CLIENTS
-	 ***************************************************************************************************************** -->
-	 <div id="cwrap">
-		 <div class="container">
-		 	<div class="row centered">
-			 	<h3>OUR CLIENTS</h3>
-			 	<div class="col-lg-3 col-md-3 col-sm-3">
-			 		<img src="assets/img/clients/client01.png" class="img-responsive">
-			 	</div>
-			 	<div class="col-lg-3 col-md-3 col-sm-3">
-			 		<img src="assets/img/clients/client02.png" class="img-responsive">
-			 	</div>
-			 	<div class="col-lg-3 col-md-3 col-sm-3">
-			 		<img src="assets/img/clients/client03.png" class="img-responsive">
-			 	</div>
-			 	<div class="col-lg-3 col-md-3 col-sm-3">
-			 		<img src="assets/img/clients/client04.png" class="img-responsive">
-			 	</div>
-		 	</div><! --/row -->
-		 </div><! --/container -->
-	 </div><! --/cwrap -->
-
-	<!-- *****************************************************************************************************************
-	 FOOTER
-	 ***************************************************************************************************************** -->
-	 <div id="footerwrap">
-	 	<div class="container">
-		 	<div class="row">
-		 		<div class="col-lg-4">
-		 			<h4>About</h4>
-		 			<div class="hline-w"></div>
-		 			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-		 		</div>
-		 		<div class="col-lg-4">
-		 			<h4>Social Links</h4>
-		 			<div class="hline-w"></div>
-		 			<p>
-		 				<a href="#"><i class="fa fa-dribbble"></i></a>
-		 				<a href="#"><i class="fa fa-facebook"></i></a>
-		 				<a href="#"><i class="fa fa-twitter"></i></a>
-		 				<a href="#"><i class="fa fa-instagram"></i></a>
-		 				<a href="#"><i class="fa fa-tumblr"></i></a>
-		 			</p>
-		 		</div>
-		 		<div class="col-lg-4">
-		 			<h4>Our Bunker</h4>
-		 			<div class="hline-w"></div>
-		 			<p>
-		 				Some Ave, 987,<br/>
-		 				23890, New York,<br/>
-		 				United States.<br/>
-		 			</p>
-		 		</div>
-		 	
-		 	</div><! --/row -->
-	 	</div><! --/container -->
-	 </div><! --/footerwrap -->
-	 
-    <!-- Bootstrap core JavaScript
+	<!-- CSS
     ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-	<script src="assets/js/retina-1.1.0.js"></script>
-	<script src="assets/js/jquery.hoverdir.js"></script>
-	<script src="assets/js/jquery.hoverex.min.js"></script>
-	<script src="assets/js/jquery.prettyPhoto.js"></script>
-  	<script src="assets/js/jquery.isotope.min.js"></script>
-  	<script src="assets/js/custom.js"></script>
+	<link rel="stylesheet" href="css/default.css">
+	<link rel="stylesheet" href="css/layout.css">
+	<link rel="stylesheet" href="css/media-queries.css">
+	<link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" href="css/prettyPhoto.css">
+
+	<!-- Script
+       ================================================== -->
+	<script src="js/modernizr.js"></script>
+
+	<!-- Favicons
+        ================================================== -->
+	<link rel="shortcut icon" href="favicon.png" >
+
+</head>
+
+<body>
+
+<div id="preloader">
+	<div id="status">
+		<img src="images/preloader.gif" height="64" width="64" alt="">
+	</div>
+</div>
+
+<!-- Header
+   ================================================== -->
+<header>
+
+	<div class="logo">
+		<a class="smoothscroll" href="#hero"><img alt="" src="images/logo.png"></a>
+	</div>
+
+	<nav id="nav-wrap">
+
+		<a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show Menu</a>
+		<a class="mobile-btn" href="#" title="Hide navigation">Hide Menu</a>
+
+		<ul id="nav" class="nav">
+			<li><a class="smoothscroll" href="#features">Features</a></li>
+			<li><a class="smoothscroll" href="#pricing">Pricing</a></li>
+			<li><a class="smoothscroll" href="#screenshots">Screenshots</a></li>
+			<li><a class="smoothscroll" href="#testimonials">Testimonials</a></li>
+			<li><a class="smoothscroll" href="#subscribe">Subscribe</a></li>
+		</ul> <!-- end #nav -->
+
+	</nav> <!-- end #nav-wrap -->
+
+	<ul class="header-social">
+		<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+		<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+		<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+	</ul>
+
+</header> <!-- Header End -->
 
 
-    <script>
-// Portfolio
-(function($) {
-	"use strict";
-	var $container = $('.portfolio'),
-		$items = $container.find('.portfolio-item'),
-		portfolioLayout = 'fitRows';
-		
-		if( $container.hasClass('portfolio-centered') ) {
-			portfolioLayout = 'masonry';
-		}
-				
-		$container.isotope({
-			filter: '*',
-			animationEngine: 'best-available',
-			layoutMode: portfolioLayout,
-			animationOptions: {
-			duration: 750,
-			easing: 'linear',
-			queue: false
-		},
-		masonry: {
-		}
-		}, refreshWaypoints());
-		
-		function refreshWaypoints() {
-			setTimeout(function() {
-			}, 1000);   
-		}
-				
-		$('nav.portfolio-filter ul a').on('click', function() {
-				var selector = $(this).attr('data-filter');
-				$container.isotope({ filter: selector }, refreshWaypoints());
-				$('nav.portfolio-filter ul a').removeClass('active');
-				$(this).addClass('active');
-				return false;
-		});
-		
-		function getColumnNumber() { 
-			var winWidth = $(window).width(), 
-			columnNumber = 1;
-		
-			if (winWidth > 1200) {
-				columnNumber = 5;
-			} else if (winWidth > 950) {
-				columnNumber = 4;
-			} else if (winWidth > 600) {
-				columnNumber = 3;
-			} else if (winWidth > 400) {
-				columnNumber = 2;
-			} else if (winWidth > 250) {
-				columnNumber = 1;
-			}
-				return columnNumber;
-			}       
-			
-			function setColumns() {
-				var winWidth = $(window).width(), 
-				columnNumber = getColumnNumber(), 
-				itemWidth = Math.floor(winWidth / columnNumber);
-				
-				$container.find('.portfolio-item').each(function() { 
-					$(this).css( { 
-					width : itemWidth + 'px' 
-				});
-			});
-		}
-		
-		function setPortfolio() { 
-			setColumns();
-			$container.isotope('reLayout');
-		}
-			
-		$container.imagesLoaded(function () { 
-			setPortfolio();
-		});
-		
-		$(window).on('resize', function () { 
-		setPortfolio();          
-	});
-})(jQuery);
-</script>
-  </body>
+<!-- Homepage Hero
+   ================================================== -->
+<section id="hero">
+
+	<div class="row">
+
+		<div class="twelve columns">
+
+			<div class="hero-text">
+				<h1 class="responsive-headline">Employee feedback reinvented</h1>
+				<h2 class="responsive-headline2">REAL-TIME . ANNONYMOUS . PRIVATE . DIRECT</h2>
+
+				<p>Man is least himself when he talks in his own person. <br>
+					Give him a mask, and he will tell you the truth - Oscar Wilde</p>
+			</div>
+
+			<div class="buttons">
+				<a class="button trial" href="#">Free Trial</a>
+				<a class="button learn-more smoothscroll" href="#features">Learn More</a>
+			</div>
+
+			<div class="hero-image">
+				<img src="images/hero-image.png" alt="" />
+			</div>
+
+		</div>
+
+	</div>
+
+</section> <!-- Homepage Hero end -->
+
+
+<!-- Features Section
+   ================================================== -->
+<section id='features'>
+
+	<div class="row feature design">
+
+		<div class="six columns right">
+			<h3>TRULY ANONYMOUS</h3>
+
+			<p>Let's Connect is truly anonymous! Privacy is very important to us, so employees' identity is never shared with the companies. This confidence encourages employees to be honest and fearless about their feedback.
+			</p>
+		</div>
+
+		<div class="six columns feature-media left">
+			<img src="images/feature-image-1.png" alt="" />
+		</div>
+
+	</div>
+
+	<div class="row feature responsive">
+
+		<div class="six columns left">
+			<h3>Fully Responsive.</h3>
+
+			<p>Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi
+				enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu.
+				Quis nostrum exercitationem ullam corporis suscipit laboriosam.Our library is continually refreshed with the latest on web technology
+				so you'll never fall behind. Quis nostrum exercitationem ullam corporis suscipit laboriosam.
+			</p>
+		</div>
+
+		<div class="six columns feature-media right">
+			<img src="images/feature-image-2.png" alt="" />
+		</div>
+
+	</div>
+
+	<div class="row feature cross-browser">
+
+		<div class="six columns right">
+			<h3>Cross-Browser Compatible.</h3>
+
+			<p>Lorem ipsum dolor sit amet, ea eum labitur scripserit, illum complectitur deterruisset at pro. Odio quaeque reformidans est eu, expetendis intellegebat has ut, viderer invenire ut his. Has molestie percipit an. Falli volumus efficiantur sed id, ad vel noster propriae. Ius ut etiam vivendo, graeci iudicabit constituto at mea. No soleat fabulas prodesset vel, ut quo solum dicunt.
+				Nec et amet vidisse mentitum. Cibo mutat nulla ei eam.
+			</p>
+		</div>
+
+		<div class="six columns feature-media left">
+			<img src="images/feature-image-3.png" alt="" />
+		</div>
+
+	</div>
+
+	<div class="row feature video">
+
+		<div class="six columns left">
+			<h3>Video Support.</h3>
+
+			<p>Aenean condimentum, lacus sit amet luctus lobortis, dolores et quas molestias excepturi
+				enim tellus ultrices elit, amet consequat enim elit noneas sit amet luctu.
+				Quis nostrum exercitationem ullam corporis suscipit laboriosam. No soleat fabulas prodesset vel, ut quo solum dicunt. Nec et amet vidisse mentitum. Cibo mutat nulla ei eam.
+			</p>
+		</div>
+
+		<div class="six columns feature-media right">
+			<div class="fluid-video-wrapper">
+				<iframe src="http://player.vimeo.com/video/14592941?title=0&amp;byline=0&amp;portrait=0&amp;color=F64B39" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+			</div>
+		</div>
+
+	</div>
+
+</section> <!-- Homepage Hero end -->
+
+
+<!-- Pricing Section
+================================================== -->
+<section id="pricing">
+
+	<div class="row section-head">
+
+		<h1>Pricing Tables.</h1>
+
+		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+			eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
+			voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
+			voluptatem sequi nesciunt.
+		</p>
+
+	</div>
+
+	<div class="row">
+
+		<div class="pricing-tables bgrid-quarters s-bgrid-halves">
+
+			<div class="column">
+
+				<div class="price-block">
+
+					<h3 class="plan-title"><i class="fa fa-cog"></i>Starter</h3>
+					<p class="plan-price">FREE <span>per month</span></p>
+
+					<ul class="features">
+						<li>1GB Storage</li>
+						<li>5GB Bandwidth</li>
+						<li>2 Domains</li>
+						<li>3 Databases</li>
+						<li>1 FTP Account</li>
+						<li>25 Email Accounts</li>
+					</ul>
+
+					<footer class="plan-sign-up">
+						<a class="button" href="">Sign Up</a>
+					</footer>
+
+				</div> <!-- End Price Block -->
+
+			</div> <!-- End Column -->
+
+			<div class="column">
+
+				<div class="price-block">
+
+					<h3 class="plan-title"><i class="fa fa-thumbs-up"></i>Standard</h3>
+					<p class="plan-price">$9.99 <span>per month</span></p>
+
+					<ul class="features">
+						<li>3GB Storage</li>
+						<li>10GB Bandwidth</li>
+						<li>3 Domains</li>
+						<li>5 Databases</li>
+						<li>3 FTP Account</li>
+						<li>30 Email Accounts</li>
+					</ul>
+
+					<footer class="plan-sign-up">
+						<a class="button" href="">Sign Up</a>
+					</footer>
+
+				</div> <!-- End Price Block -->
+
+			</div> <!-- End Column -->
+
+			<div class="column">
+
+				<div class="price-block">
+
+					<h3 class="plan-title"><i class="fa fa-star"></i>Premium</h3>
+					<p class="plan-price">$19.99 <span>per month</span></p>
+
+					<ul class="features">
+						<li>10GB Storage</li>
+						<li>25GB Bandwidth</li>
+						<li>5 Domains</li>
+						<li>10 Databases</li>
+						<li>10 FTP Account</li>
+						<li>50 Email Accounts</li>
+					</ul>
+
+					<footer class="plan-sign-up">
+						<a class="button" href="">Sign Up</a>
+					</footer>
+
+				</div> <!-- End Price block -->
+
+			</div> <!-- End Column -->
+
+			<div class="column">
+
+				<div class="price-block">
+
+					<h3 class="plan-title"><i class="fa fa-trophy"></i>Ultimate</h3>
+					<p class="plan-price">$29.99 <span>per month</span></p>
+
+					<ul class="features">
+						<li>30 Storage</li>
+						<li>Unlimited Bandwidth</li>
+						<li>10 Domains</li>
+						<li>15 Databases</li>
+						<li>10 FTP Account</li>
+						<li>50 Email Accounts</li>
+					</ul>
+
+					<footer class="plan-sign-up">
+						<a class="button" href="">Sign Up</a>
+					</footer>
+
+				</div> <!-- End Price Block -->
+
+			</div> <!-- End Column -->
+
+		</div>
+
+	</div>
+
+</section> <!-- Pricing End -->
+
+<!-- Call-To-Action Section
+   ================================================== -->
+<section id="call-to-action">
+
+	<div class="row">
+
+		<div class="two columns header-col">
+
+			<h1><span>Get Hosting.</span></h1>
+
+		</div>
+
+		<div class="seven columns">
+
+			<h2><a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">Host This Template on Dreamhost.</a></h2>
+			<p>Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT"><span>DreamHost</span></a>.
+				Get <span>$50 off</span> when you sign up with the promocode <span>STYLESHOUT</span>.
+				<!-- Simply type	the promocode in the box labeled “Promo Code” when placing your order. --></p>
+
+		</div>
+
+		<div class="three columns action">
+
+			<a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT" class="button">Sign Up Now</a>
+
+		</div>
+
+	</div>
+
+</section> <!-- Call-To-Action Section End-->
+
+
+<!-- Screenshots
+   ================================================== -->
+<section id="screenshots">
+
+	<div class="row section-head">
+
+		<h1>Product Screenshots.</h1>
+
+		<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
+			eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam
+			voluptatem quia voluptas sit aspernatur aut odit aut fugit.
+		</p>
+
+	</div>
+
+	<div class="row">
+
+		<div class="twelve columns">
+
+			<!-- screenshots-wrapper -->
+			<div id="screenshots-wrapper" class="bgrid-quarters s-bgrid-thirds cf">
+
+				<div class="columns item">
+					<div class="item-wrap">
+
+						<a href="images/screenshots/big/b-line-icons.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/line-icons.jpg" alt="Line Icons">
+							<div class="overlay"></div>
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						</a>
+
+					</div>
+				</div> <!-- item end -->
+
+				<div class="columns item">
+					<div class="item-wrap">
+
+						<a href="images/screenshots/big/b-hipster.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/hipster.jpg" alt="Hipster">
+							<div class="overlay"></div>
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						</a>
+
+					</div>
+				</div> <!-- item end -->
+
+				<div class="columns item">
+					<div class="item-wrap">
+
+						<a href="images/screenshots/big/b-authentic-vintage.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/authentic-vintage.jpg" alt="Authentic Vintage">
+							<div class="overlay"></div>
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						</a>
+
+					</div>
+				</div> <!-- item end -->
+
+				<div class="columns item">
+					<div class="item-wrap">
+
+						<a href="images/screenshots/big/b-spot-uv-logo.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/spot-uv-logo.jpg" alt="Spot UV Logo">
+							<div class="overlay"></div>
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						</a>
+
+					</div>
+				</div> <!-- item end -->
+
+				<div class="columns item">
+					<div class="item-wrap">
+
+						<a href="images/screenshots/big/b-tshirt-mockup.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/tshirt-mockup.jpg" alt="TShirt Mockup">
+							<div class="overlay"></div>
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						</a>
+
+					</div>
+				</div> <!-- item end -->
+
+				<div class="columns item">
+					<div class="item-wrap">
+
+						<a href="images/screenshots/big/b-abstract-vector.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/abstract-vector.jpg" alt="Abstract Vector">
+							<div class="overlay"></div>
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						</a>
+
+					</div>
+				</div> <!-- item end -->
+
+				<div class="columns item">
+					<div class="item-wrap">
+
+						<a href="images/screenshots/big/b-embossed-paper.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/embossed-paper.jpg" alt="Embossed Paper">
+							<div class="overlay"></div>
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						</a>
+
+					</div>
+				</div> <!-- item end -->
+
+				<div class="columns item">
+					<div class="item-wrap">
+
+						<a href="images/screenshots/big/b-judah.jpg" data-imagelightbox="a" >
+							<img src="images/screenshots/judah.jpg" alt="Judah">
+							<div class="overlay"></div>
+							<div class="link-icon"><i class="icon-plus"></i></div>
+						</a>
+
+					</div>
+				</div>  <!-- item end -->
+
+			</div> <!-- portfolio-wrapper end -->
+
+		</div> <!-- twelve columns end -->
+
+	</div>  <!-- end row -->
+
+</section> <!-- Screenshots End -->
+
+
+<!-- Testimonials Section
+   ================================================== -->
+<section id="testimonials">
+
+	<div class="row content">
+
+		<span><i class="quote-left fa fa-quote-left"></i></span>
+
+		<div class="text-container">
+
+			<div class="twelve columns">
+
+				<h1>What People Are Saying.</h1>
+
+			</div>
+
+			<div class="twelve columns flex-container">
+
+				<div class="flexslider">
+
+					<ul class="slides">
+
+						<li>
+							<blockquote>
+								<p>Your work is going to fill a large part of your life, and the only way to be truly satisfied is
+									to do what you believe is great work. And the only way to do great work is to love what you do.
+									If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it.
+								</p>
+								<cite>Steve Jobs</cite>
+							</blockquote>
+						</li> <!-- slide ends -->
+
+						<li>
+							<blockquote>
+								<p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
+									Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
+									nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
+								</p>
+								<cite>Mr. Adobe</cite>
+							</blockquote>
+						</li> <!-- slide ends -->
+
+					</ul>
+
+				</div> <!-- div.flexslider ends -->
+
+			</div> <!-- div.flex-container ends -->
+
+		</div>  <!-- text-container ends -->
+
+		<span><i class="quote-right fa fa-quote-right"></i></span>
+
+	</div> <!-- row ends -->
+
+</section> <!-- Testimonials Section End-->
+
+
+<!-- Subscribe
+   ================================================== -->
+<section id="subscribe">
+
+	<div class="row section-head">
+
+		<div class="twelve columns">
+
+			<h1>MailChimp signup form.</h1>
+
+			<p>Adding your own MailChimp powered email sign-up is easy.
+				Grab the super slim code from your MailChimp account and drop the code here. Lastly, remove the link and style tags
+				that comes with the embedded code and your good to go. All styling is within our stylesheet.</p>
+
+		</div>
+
+	</div>
+
+	<div class="row">
+
+		<div class="twelve columns">
+
+			<!-- Begin MailChimp Signup Form -->
+
+			<div id="mc_embed_signup">
+				<form action="http://facebook.us8.list-manage.com/subscribe/post?u=cdb7b577e41181934ed6a6a44&amp;id=e65110b38d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+					<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+					<!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+					<div style="position: absolute; left: -5000px;"><input type="text" name="b_cdb7b577e41181934ed6a6a44_e65110b38d" value=""></div>
+					<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+
+				</form>
+			</div>
+
+			<p><small>We never share your information or use it to spam you.</small></p>
+
+		</div>
+
+	</div>
+
+</section>  <!-- Subscribe Section End-->
+
+
+<!-- Footer
+   ================================================== -->
+<footer>
+
+	<div class="row">
+
+		<div class="six columns info">
+
+			<div class="footer-logo">
+				<a href="#">
+					<img src="images/footer-logo.png" alt="" />
+				</a>
+			</div>
+
+			<p>This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
+				Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem
+				nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
+			</p>
+
+		</div>
+
+		<div class="six columns right-cols">
+
+			<div class="row">
+
+				<div class="columns">
+					<h3 class="address">Come Visit</h3>
+					<p>
+						1600 Amphitheatre Parkway<br>
+						Mountain View, CA<br>
+						94043 US
+					</p>
+				</div>
+
+				<div class="columns">
+					<h3 class="social">socialize</h3>
+					<ul>
+						<li><a href="#">Facebook</a></li>
+						<li><a href="#">Twitter</a></li>
+						<li><a href="#">GooglePlus</a></li>
+					</ul>
+				</div>
+
+				<div class="columns last">
+					<h3 class="contact">Contact Us</h3>
+					<ul>
+						<li><a href="tel:6473438234">647.343.8234</a></li>
+						<li><a href="tel:1234567890">123.456.7890</a></li>
+						<li><a href="mailto:someone@woo.com">someone@woosite.com</a></li>
+					</ul>
+				</div>
+
+			</div> <!-- Nested Row End -->
+
+		</div>
+
+		<p class="copyright">&copy; 2014 Woo | Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></p>
+
+		<div id="go-top">
+			<a class="smoothscroll" title="Back to Top" href="#hero"><i class="icon-up-open"></i></a>
+		</div>
+
+	</div> <!-- Row End -->
+
+</footer> <!-- Footer End-->
+
+
+<!-- Java Script
+   ================================================== -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
+<script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+
+<script src="js/jquery.flexslider.js"></script>
+<script src="js/waypoints.js"></script>
+<script src="js/jquery.fittext.js"></script>
+<script src="js/jquery.fitvids.js"></script>
+<script src="js/imagelightbox.js"></script>
+<script src="js/jquery.prettyPhoto.js"></script>
+<script src="js/main.js"></script>
+
+</body>
+
 </html>
