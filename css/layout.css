@@ -273,6 +273,23 @@ ul#nav li.current a { color: #fff; }
 
 
 /*----------------------------------------------*/
+/*	e. howitworks Section
+/*----------------------------------------------*/
+
+#howitworks {
+   background: #b3b3b3;
+   padding-top: 96px;
+   padding-bottom: 78px;
+   overflow: hidden;
+
+}
+
+#howitworks p, ol, ul
+{
+   color: black;
+}
+
+/*----------------------------------------------*/
 /*	e. Pricing Section
 /*----------------------------------------------*/
 
