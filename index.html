@@ -8,7 +8,7 @@
 	<!--- Basic Page Needs
        ================================================== -->
 	<meta charset="utf-8">
-	<title>Letsconnect</title>
+	<title>Let's Connect</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -23,6 +23,7 @@
 	<link rel="stylesheet" href="css/media-queries.css">
 	<link rel="stylesheet" href="css/animate.css">
 	<link rel="stylesheet" href="css/prettyPhoto.css">
+	<!--<link rel="stylesheet" href="css/bootstrap.min.css">-->
 
 	<!-- Script
        ================================================== -->
@@ -34,13 +35,14 @@
 
 </head>
 
-<body>
+<body >
 
 <div id="preloader">
 	<div id="status">
 		<img src="images/preloader.gif" height="64" width="64" alt="">
 	</div>
 </div>
+
 
 <!-- Header
    ================================================== -->
@@ -74,6 +76,25 @@
 
 </header> <!-- Header End -->
 
+<!--<div id="myModal" class="modal fade" role="dialog" aria-hidden="true" tabindex="-1">-->
+	<!--<div class="modal-dialog">-->
+
+		<!--&lt;!&ndash; Modal content&ndash;&gt;-->
+		<!--<div class="modal-content">-->
+			<!--<div class="modal-header">-->
+				<!--<button type="button" class="close" data-dismiss="modal">&times;</button>-->
+				<!--<h4 class="modal-title">Modal Header</h4>-->
+			<!--</div>-->
+			<!--<div class="modal-body">-->
+				<!--<p>Some text in the modal.</p>-->
+			<!--</div>-->
+			<!--<div class="modal-footer">-->
+				<!--<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>-->
+			<!--</div>-->
+		<!--</div>-->
+
+	<!--</div>-->
+<!--</div>-->
 
 <!-- Homepage Hero
    ================================================== -->
@@ -462,6 +483,7 @@
 <script src="js/imagelightbox.js"></script>
 <script src="js/jquery.prettyPhoto.js"></script>
 <script src="js/main.js"></script>
+<script src="js/bootstrap.min.js"></script>
 
 <script>
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -493,6 +515,11 @@
 		},
 		googleAnalytics:true
 	});
+
+	$(window).mouseleave(function() {
+		$('#myModal').modal('show');
+		console.log('Person trying to leave window');
+	})
 </script>
 
 </body>

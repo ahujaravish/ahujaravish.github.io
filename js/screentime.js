@@ -99,11 +99,12 @@
     function sendGAEvent(field, time) {
 
       if (universalGA) {
-        ga('send', 'event', 'Screentime', 'Time on Screen', field, parseInt(time, 10), {'nonInteraction': true});
+        console.log('Screentime sending to google');
+        ga('send', 'event', 'Screentime', 'Screentime', field, parseInt(time, 10), {'nonInteraction': true});
       }
 
       if (classicGA) {
-        _gaq.push(['_trackEvent', 'Screentime', 'Time on Screen', field, parseInt(time, 10), true]);
+        _gaq.push(['_trackEvent', 'Screentime', 'Screentime', field, parseInt(time, 10), true]);
       }
 
     }
