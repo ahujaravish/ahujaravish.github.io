@@ -516,8 +516,7 @@
 	});
 
 	$(window).mouseleave(function() {
-		$('#myModal').modal('show');
-		console.log('Person trying to leave window');
+		ga('send', 'event', 'LeftPage', 'LeftPage', 'PersonLeft Page', 1);
 	})
 </script>
 
